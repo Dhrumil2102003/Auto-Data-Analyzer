@@ -33,12 +33,19 @@ A powerful, interactive Streamlit application for automated data analysis, visua
 📂 Folder Structure
 
 ├── app.py               # Main Streamlit app
+
 ├── charts.py            # Chart rendering functions using Plotly & Matplotlib
+
 ├── dashboard.py         # Dashboard layout and KPI generation
+
 ├── gamma3.py            # Uses Google Gemini API to explain charts
+
 ├── ml_models.py         # Machine Learning model runner
+
 ├── preprocess.py        # Data cleaning, outlier removal, normalization
+
 ├── utils.py             # Helpers to load, clean, save, detect date column
+
 └── uploaded_datasets/   # Folder where uploaded datasets are saved
 
 
